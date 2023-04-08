@@ -1,0 +1,25 @@
+Boas práticas à serem seguidas ao programar em Python.
+
+📌Evite usar caracteres especiais, o único que pode ser utilizado em um geral é o underline ( _ ). 
+
+📌Muito cuidado ao nomear variáveis, priorizar sempre utilizar nomenclaturas simples, de preferência, com letras minúsculas.
+
+📌Escreva código legível: Siga as convenções de nomenclatura, deixe espaços em branco adequados e use comentários relevantes para tornar seu código fácil de ler e entender.
+
+📌Escreva funções e módulos reutilizáveis: Isso ajudará você a economizar tempo e a evitar a repetição de código. Além disso, é mais fácil testar e manter código modular.
+
+📌Use exceções adequadamente: Use exceções para lidar com erros e situações excepcionais de forma apropriada. Isso ajuda a tornar seu código mais robusto e seguro.
+
+📌Escreva testes: Escreva testes unitários e de integração para garantir que o código esteja funcionando corretamente e que as alterações não quebrem o código existente.
+
+📌Use o estilo de codificação do PEP 8: O PEP 8 é um guia de estilo para código Python. Ele inclui recomendações sobre a formatação de código, nomenclatura de variáveis e funções, e muito mais.
+
+📌Utilize as ferramentas corretas: Use ferramentas como o PyLint, Flake8 e Black para verificar a qualidade do código e garantir que ele atenda aos padrões.
+
+📌Compreenda os tipos de dados: Entenda os tipos de dados do Python, como listas, tuplas, dicionários e conjuntos, para poder usar as estruturas de dados corretas para cada tarefa.
+
+📌Aprenda a usar a biblioteca padrão: A biblioteca padrão do Python contém muitas ferramentas e recursos úteis. Certifique-se de aprender como usá-los adequadamente para economizar tempo e escrever código mais eficiente.
+
+📌Evite duplicação de código: Procure evitar a duplicação de código sempre que possível, pois isso pode levar a erros e dificultar a manutenção do código.
+
+📌Documente seu código: Escreva documentação clara e concisa para ajudar outros desenvolvedores a entender o seu código. Isso também ajudará você a se lembrar de como seu próprio código funciona.
